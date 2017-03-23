@@ -1,0 +1,15 @@
+{
+  "name": "anotherangular",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular-ui-router": "^1.1.36"
+  },
+  "dependencies": {}
+}
