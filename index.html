@@ -5,7 +5,7 @@
     <title></title>
     <base href="/" />
 </head>
-<body ng-controller="MainController as controller">
+<body ng-controller="MainController as main">
     <a ui-sref="Page1">Page 1</a> | <a ui-sref="Page2">Page 2</a> | <a ui-sref="Nowhere">Nowhere</a>
     <hr />
     $state.current.templateUrl = {{main.$state.current.templateUrl}}
@@ -15,7 +15,7 @@
 
     <script src="~/Scripts/angular.min.js"></script>
     <script src="~/Scripts/angular-route.min.js"></script>
-    <script src="/ngApp/app.js"></script>
+    <script src="/ngApp/something.js"></script>
     <script src="/ngApp/controllers.js"></script>
 </body>
 </html>

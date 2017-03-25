@@ -11,5 +11,17 @@
   "devDependencies": {
     "@types/angular-ui-router": "^1.1.36"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarmaDreamwalker/clientsiderouting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KarmaDreamwalker/clientsiderouting/issues"
+  },
+  "homepage": "https://github.com/KarmaDreamwalker/clientsiderouting#readme"
 }
+
+"scripts": {
+   "dev": "lite-server"
+ },

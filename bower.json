@@ -1,0 +1,17 @@
+{
+  "name": "anotherangular",
+  "main": "index.js",
+  "homepage": "https://github.com/KarmaDreamwalker/clientsiderouting",
+  "authors": [
+    "Kaitlin Danson <karmadreamwalker@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

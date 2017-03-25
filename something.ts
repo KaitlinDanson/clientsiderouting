@@ -11,8 +11,7 @@ namespace MyApp {
             .state('Page1', {
                 url: '/page1',
                 templateUrl: "ngApp/page1.html",
-                controller: MyApp.Controllers.Page1Controller,
-                controllerAs: 'controller'
+                controller: MyApp.Controllers.Page1Controller
             })
             .state('Page2', {
                 url: '/page2',
