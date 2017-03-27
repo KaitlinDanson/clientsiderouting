@@ -1,3 +1,5 @@
+angular.module('app', ['ngRoute']);
+
 var MyApp;
 (function (MyApp) {
     angular.module('MyApp', ['ui.router']).config(function ($stateProvider, $locationProvider, $urlRouterProvider) {
